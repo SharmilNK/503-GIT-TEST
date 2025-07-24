@@ -10,16 +10,16 @@ import random
 # - Then commit your changes and open a pull request!
 
 # Feel free to add a new adjective!
-adjectives = ["brilliant", "overcaffeinated"]
+adjectives = ["brilliant", "overcaffeinated","scintillating"]
 
 # Add a new type of noun (people, AI terms, Duke references, etc.)
-nouns = ["data scientist", "Blue Devil"]
+nouns = ["data scientist", "Blue Devil", "pioneer"]
 
 # Add a verb related to coding, AI, or something fun!
-verbs = ["debugged", "fine-tuned"]
+verbs = ["debugged", "fine-tuned", "created"]
 
 # Add a cool or recognizable Duke location or tech space
-places = ["Co-Lab", "Perkins Library"]
+places = ["Co-Lab", "Perkins Library", "Duke Gardens"]
 
 # Add your favorite tool, framework, or AI-related software
 tools = ["TensorFlow", "GitHub Copilot"]
